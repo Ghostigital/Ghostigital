@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ghostigital
-- 👀 I’m interested in MERN stack
-- 🌱 I’m currently learning HTML/CSS & JS
+- 👀 I’m interested in Fullstack Development
+- 🌱 I’m currently learning Typescript & React
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me : sammy_macpherson@hotmail.co.uk
 
